@@ -1,0 +1,9 @@
+JackDanielsWhisky 30 2.4
+AbsolutVodka 27 8.5
+Rum 67 2.8
+PinkGin 0 4.5
+RedGin 2 4.9
+StalinksayaVodka 45 8.6
+RedWine 67 6.0
+RoseWine 28 6.3
+Palinca 100 0.5 

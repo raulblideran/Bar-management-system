@@ -1,0 +1,132 @@
+
+The customer has ordered: 
+25 glasses of AbsolutVodka
+Which cost: 
+8.5 /glass 
+In  Transparent Whisky glass
+
+The customer also wanted 
+2 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 213.50£
+
+The date and time when this order was completed: 2019-12-16 19:11:40.996318
+
+
+The customer has ordered: 
+2 glasses of RedGin
+Which cost: 
+4.9 /glass 
+In  Blue Whisky glass
+
+The customer also wanted 
+1 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 10.30£
+
+The date and time when this order was completed: 2019-12-16 22:30:26.418721
+
+
+The customer has ordered: 
+3 glasses of Palinca
+Which cost: 
+0.5 /glass 
+In  White Gin glass
+
+The customer also wanted 
+3 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 3.00£
+
+The date and time when this order was completed: 2019-12-18 12:25:10.110905
+
+
+The customer has ordered: 
+34 glasses of PinkGin
+Which cost: 
+4.5 /glass 
+In  White Gin glass
+
+The customer also wanted 
+4 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 155.00£
+
+The date and time when this order was completed: 2019-12-18 12:28:09.938264
+
+
+The customer has ordered: 
+3 glasses of RedWine
+Which cost: 
+6.0 /glass 
+In  Transparent Wine glass
+
+The customer also wanted 
+2 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 19.00£
+
+The date and time when this order was completed: 2019-12-19 12:15:45.743306
+
+
+The customer has ordered: 
+3 glasses of Rum
+Which cost: 
+2.8 /glass 
+In  Red Whisky glass
+
+
+The total cost is: 8.40£
+
+The date and time when this order was completed: 2019-12-20 12:11:16.921798
+
+
+The customer has ordered: 
+2 glasses of Rum
+Which cost: 
+2.8 /glass 
+In  Red Whisky glass
+
+
+The total cost is: 5.60£
+
+The date and time when this order was completed: 2019-12-20 12:12:27.547310
+
+
+The customer has ordered: 
+4 glasses of Palinca
+Which cost: 
+0.5 /glass 
+In  Red Whisky glass
+
+
+The total cost is: 2.00£
+
+The date and time when this order was completed: 2019-12-20 12:13:31.755277
+
+
+The customer has ordered: 
+4 glasses of Palinca
+Which cost: 
+0.5 /glass 
+In  White Gin glass
+
+The customer also wanted 
+3 bags of Salt Walkers which cost 0.5 /bag
+
+The total cost is: 3.50£
+
+The date and time when this order was completed: 2019-12-20 12:14:39.395098
+
+
+The customer has ordered: 
+20 glasses of Palinca
+Which cost: 
+0.5 /glass 
+In  Transparent Wine glass
+
+
+The total cost is: 10.00£
+
+The date and time when this order was completed: 2019-12-29 01:33:22.529922
+

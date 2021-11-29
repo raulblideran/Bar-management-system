@@ -1,0 +1,9 @@
+Whisky Transparent 10
+Whisky Red 15
+Whisky Blue 20
+Wine Transparent 10
+Wine Red 10
+Rum Transparent 19
+Rum Blue 55
+Gin White 60
+Gin Red 10
